@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Test3_Vinay_Student_Library">
+      <HintPath>C:\Users\Rintu\Desktop\Test3_Student info\Test3_Vinay_Student_Library.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
